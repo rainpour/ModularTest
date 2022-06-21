@@ -1,0 +1,3 @@
+[submodule "HYFrameworks/HYFoundation"]
+	path = HYFrameworks/HYFoundation
+	url = https://github.com/rainpour/HYFoundation.git
