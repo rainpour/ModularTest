@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1340"
+   LastUpgradeVersion = "1010"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D22034B5286168110029F694"
+               BlueprintIdentifier = "648308F57DC2236EBC5D8084"
                BuildableName = "ModularTest.app"
-               BlueprintName = "ModularTest (macOS)"
+               BlueprintName = "ModularTest"
                ReferencedContainer = "container:ModularTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,7 +26,8 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      disableMainThreadChecker = "YES">
       <Testables>
       </Testables>
    </TestAction>
@@ -44,9 +45,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D22034B5286168110029F694"
+            BlueprintIdentifier = "648308F57DC2236EBC5D8084"
             BuildableName = "ModularTest.app"
-            BlueprintName = "ModularTest (macOS)"
+            BlueprintName = "ModularTest"
             ReferencedContainer = "container:ModularTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,9 +62,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D22034B5286168110029F694"
+            BlueprintIdentifier = "648308F57DC2236EBC5D8084"
             BuildableName = "ModularTest.app"
-            BlueprintName = "ModularTest (macOS)"
+            BlueprintName = "ModularTest"
             ReferencedContainer = "container:ModularTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
