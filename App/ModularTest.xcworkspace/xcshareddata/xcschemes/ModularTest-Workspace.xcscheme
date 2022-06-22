@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "500386E1216BFE7ABF4C17B8"
+               BuildableName = "HYFoundation.framework"
+               BlueprintName = "HYFoundation"
+               ReferencedContainer = "container:../Frameworks/HYFoundation/HYFoundation.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "648308F57DC2236EBC5D8084"
                BuildableName = "ModularTest.app"
                BlueprintName = "ModularTest"
@@ -40,16 +54,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "648308F57DC2236EBC5D8084"
-            BuildableName = "ModularTest.app"
-            BlueprintName = "ModularTest"
-            ReferencedContainer = "container:ModularTest.xcodeproj">
+            BlueprintIdentifier = "500386E1216BFE7ABF4C17B8"
+            BuildableName = "HYFoundation.framework"
+            BlueprintName = "HYFoundation"
+            ReferencedContainer = "container:../Frameworks/HYFoundation/HYFoundation.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -57,16 +70,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "648308F57DC2236EBC5D8084"
-            BuildableName = "ModularTest.app"
-            BlueprintName = "ModularTest"
-            ReferencedContainer = "container:ModularTest.xcodeproj">
+            BlueprintIdentifier = "500386E1216BFE7ABF4C17B8"
+            BuildableName = "HYFoundation.framework"
+            BlueprintName = "HYFoundation"
+            ReferencedContainer = "container:../Frameworks/HYFoundation/HYFoundation.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
