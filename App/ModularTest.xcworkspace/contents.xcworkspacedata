@@ -4,4 +4,11 @@
    <FileRef
       location = "group:ModularTest.xcodeproj">
    </FileRef>
+   <Group
+      location = "group:../Frameworks"
+      name = "Frameworks">
+      <FileRef
+         location = "group:HYFoundation/HYFoundation.xcodeproj">
+      </FileRef>
+   </Group>
 </Workspace>

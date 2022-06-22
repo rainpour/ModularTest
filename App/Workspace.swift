@@ -4,6 +4,6 @@ let workspace = Workspace(
     name: "ModularTest",
     projects: [
         .relativeToManifest(""),
-        "../HYFrameworks/**"
+        "../Frameworks/**"
     ]
 )

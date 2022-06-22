@@ -13,16 +13,18 @@ let project = Project(
             bundleId: "com.rainpour.ModularTest",
             infoPlist: "\(projectName)/Resources/ModularTest--iOS--Info.plist",
             sources: ["\(projectName)/Sources/**"],
-            resources: ["\(projectName)/Resources/**"]
+            resources: ["\(projectName)/Resources/**"],
 //            headers: .headers(
 //                public: ["Sources/public/A/**", "Sources/public/B/**"],
 //                private: "Sources/private/**",
 //                project: ["Sources/project/A/**", "Sources/project/B/**"]
 //            ),
-//            dependencies: [
-//                /* Target dependencies can be defined here */
-//                /* .framework(path: "framework") */
-//            ]
+            dependencies: [
+                /* Target dependencies can be defined here */
+//                .project(target: "ESPackageModule",
+//                         path: "../Framework/HYPackageModule"),
+
+            ]
         )
     ]
 )
